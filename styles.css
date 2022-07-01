@@ -1,8 +1,15 @@
+#mainheading{
+    font-size: 30px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 header{
     font-size: 30px;
     color: red;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 body{
     background-color: black;
     color: #FDFFCF;
@@ -22,7 +29,7 @@ h3{
     color: #FDFFCF;
 }
 #testP{
-    color: #7EFF70;
+    color: green;
     width: 1000px;
 }
 
