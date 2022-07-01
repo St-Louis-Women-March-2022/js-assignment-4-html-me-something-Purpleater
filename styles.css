@@ -1,1 +1,47 @@
-/* Write your CSS here! */
+header{
+    font-size: 30px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: black;
+    color: #FDFFCF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 25px;
+    color: #FFFB80;
+    text-decoration: underline solid rgb(255,251,128);
+}
+h2{
+    font-size: 20px;
+    color: #FFFB80; 
+}
+h3{
+    font-size: 12px;
+    color: #FDFFCF;
+}
+#testP{
+    color: #7EFF70;
+    width: 1000px;
+}
+
+.intro{
+    width: 1000px;
+}
+
+.lobotomy{
+    width: 1000px;
+}
+
+.library{
+    width: 1000px;
+}
+
+a:link {
+    color: red;
+  }
+
+a:visited{
+    color: #B30000;
+}
